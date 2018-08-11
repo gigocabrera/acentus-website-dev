@@ -669,7 +669,8 @@ jQuery(document).on('ready', function () {
    ========================================================================== */
 	
 	$(window).on('load', function() {
-		handlePreloader();
+    handlePreloader();
+    includeHTML();
 	});	
 
 })(window.jQuery);

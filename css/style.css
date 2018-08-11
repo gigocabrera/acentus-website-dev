@@ -1863,7 +1863,7 @@ img{
     line-height: 30px;
     font-weight: 600;
     opacity: 1;
-    text-transform: uppercase;
+    text-transform: none;
     padding: 42px 15px 39px 25px;
     transition: all 500ms ease;
     -moz-transition: all 500ms ease;
@@ -2426,9 +2426,9 @@ img{
 .main-slider h2 {
     position: relative;
     color: #ffffff;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 700;
-    line-height: 54px;
+    line-height: 55px;
     padding-bottom: 20px;
 }
 
